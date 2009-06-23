@@ -1,0 +1,93 @@
+[DEBUG] 2009-06-14 21:10:45 :: Loading config
+[DEBUG] 2009-06-14 21:37:27 :: Loading config
+[DEBUG] 2009-06-14 22:43:15 :: Loading config
+[DEBUG] 2009-06-14 22:50:10 :: Loading config
+[DEBUG] 2009-06-14 22:52:09 :: Loading config
+[DEBUG] 2009-06-15 00:08:53 :: Loading config
+[DEBUG] 2009-06-15 00:12:28 :: Loading config
+[DEBUG] 2009-06-15 00:14:55 :: Loading config
+[DEBUG] 2009-06-15 00:15:02 :: #<Rack::Auth::Basic::Request:0x1e45e3 @env={"REQUEST_METHOD"=>"GET", "REQUEST_PATH"=>"/", "REQUEST_URI"=>"/", "HTTP_VERSION"=>"HTTP/1.1", "HTTP_HOST"=>"localhost:4567", "HTTP_USER_AGENT"=>"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1b99) Gecko/20090605 Firefox/3.5b99", "HTTP_ACCEPT"=>"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "HTTP_ACCEPT_LANGUAGE"=>"en-us,en;q=0.5", "HTTP_ACCEPT_ENCODING"=>"gzip,deflate", "HTTP_ACCEPT_CHARSET"=>"ISO-8859-1,utf-8;q=0.7,*;q=0.7", "HTTP_KEEP_ALIVE"=>"300", "HTTP_CONNECTION"=>"keep-alive", "HTTP_CACHE_CONTROL"=>"max-age=0", "GATEWAY_INTERFACE"=>"CGI/1.2", "SERVER_NAME"=>"localhost", "SERVER_PORT"=>"4567", "SERVER_PROTOCOL"=>"HTTP/1.1", "SERVER_SOFTWARE"=>"Mongrel 1.1.5", "PATH_INFO"=>"/", "SCRIPT_NAME"=>"", "REMOTE_ADDR"=>"127.0.0.1", "rack.version"=>[0, 1], "rack.input"=>#<StringIO:0x7b4ed7>, "rack.errors"=>#<IO:0x17535b6>, "rack.multithread"=>true, "rack.multiprocess"=>false, "rack.run_once"=>false, "rack.url_scheme"=>"http", "QUERY_STRING"=>"", "rack.request.query_string"=>"", "rack.request.query_hash"=>{}, "rack.request.form_input"=>#<StringIO:0x7b4ed7>, "rack.request.form_hash"=>{}, "rack.request.form_vars"=>""}>
+[DEBUG] 2009-06-15 00:15:30 :: #<Rack::Auth::Basic::Request:0x1204425 @env={"REQUEST_METHOD"=>"GET", "REQUEST_PATH"=>"/", "REQUEST_URI"=>"/", "HTTP_VERSION"=>"HTTP/1.1", "HTTP_HOST"=>"localhost:4567", "HTTP_USER_AGENT"=>"Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1b99) Gecko/20090605 Firefox/3.5b99", "HTTP_ACCEPT"=>"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "HTTP_ACCEPT_LANGUAGE"=>"en-us,en;q=0.5", "HTTP_ACCEPT_ENCODING"=>"gzip,deflate", "HTTP_ACCEPT_CHARSET"=>"ISO-8859-1,utf-8;q=0.7,*;q=0.7", "HTTP_KEEP_ALIVE"=>"300", "HTTP_CONNECTION"=>"keep-alive", "HTTP_CACHE_CONTROL"=>"max-age=0, max-age=0", "HTTP_AUTHORIZATION"=>"Basic d2VhdmVyX2RtYWRtaW46d2VhdmVyMjI=", "GATEWAY_INTERFACE"=>"CGI/1.2", "SERVER_NAME"=>"localhost", "SERVER_PORT"=>"4567", "SERVER_PROTOCOL"=>"HTTP/1.1", "SERVER_SOFTWARE"=>"Mongrel 1.1.5", "PATH_INFO"=>"/", "SCRIPT_NAME"=>"", "REMOTE_ADDR"=>"127.0.0.1", "rack.version"=>[0, 1], "rack.input"=>#<StringIO:0x14ff81a>, "rack.errors"=>#<IO:0x17535b6>, "rack.multithread"=>true, "rack.multiprocess"=>false, "rack.run_once"=>false, "rack.url_scheme"=>"http", "QUERY_STRING"=>"", "rack.request.query_string"=>"", "rack.request.query_hash"=>{}, "rack.request.form_input"=>#<StringIO:0x14ff81a>, "rack.request.form_hash"=>{}, "rack.request.form_vars"=>""}>
+[DEBUG] 2009-06-15 00:16:36 :: Loading config
+[DEBUG] 2009-06-15 00:19:37 :: Loading config
+[DEBUG] 2009-06-15 00:20:55 :: Loading config
+[DEBUG] 2009-06-15 00:21:12 :: ["weaver_dmadmin", "weaver22"]
+[DEBUG] 2009-06-15 00:22:38 :: Loading config
+[DEBUG] 2009-06-15 00:22:58 :: ["weaver_dmadmin", "weaver22"]
+[DEBUG] 2009-06-15 00:23:43 :: Loading config
+[DEBUG] 2009-06-15 00:23:55 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 00:25:01 :: Loading config
+[DEBUG] 2009-06-15 00:25:05 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 00:26:09 :: Loading config
+[DEBUG] 2009-06-15 00:26:14 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 00:29:02 :: Loading config
+[DEBUG] 2009-06-15 00:29:51 :: Loading config
+[DEBUG] 2009-06-15 00:30:07 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 00:47:23 :: Loading config
+[DEBUG] 2009-06-15 00:47:39 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 00:52:46 :: Loading config
+[DEBUG] 2009-06-15 00:53:19 :: Loading config
+[DEBUG] 2009-06-15 00:54:09 :: Loading config
+[DEBUG] 2009-06-15 00:54:35 :: Loading config
+[DEBUG] 2009-06-15 00:54:41 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 00:54:49 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 07:12:50 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 07:14:28 :: Loading config
+[DEBUG] 2009-06-15 07:14:49 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 07:16:47 :: Loading config
+[DEBUG] 2009-06-15 07:17:35 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-15 07:17:46 :: FOLDER('/')
+[DEBUG] 2009-06-16 22:49:37 :: Loading config
+[DEBUG] 2009-06-16 22:49:47 :: Loading config
+[DEBUG] 2009-06-16 22:50:38 :: Loading config
+[DEBUG] 2009-06-16 22:58:19 :: Loading config
+[DEBUG] 2009-06-16 22:59:05 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 22:59:48 :: Loading config
+[DEBUG] 2009-06-16 22:59:55 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:00:18 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:00:25 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:00:32 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:00:40 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:02:08 :: Loading config
+[DEBUG] 2009-06-16 23:02:19 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:14:17 :: Loading config
+[DEBUG] 2009-06-16 23:15:42 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:16:04 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:16:15 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:17:53 :: Loading config
+[DEBUG] 2009-06-16 23:18:02 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:18:09 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:20:08 :: Loading config
+[DEBUG] 2009-06-16 23:20:13 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:20:34 :: Loading config
+[DEBUG] 2009-06-16 23:20:43 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:22:38 :: Loading config
+[DEBUG] 2009-06-16 23:23:22 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:28:13 :: Loading config
+[DEBUG] 2009-06-16 23:28:44 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:30:12 :: Loading config
+[DEBUG] 2009-06-16 23:30:51 :: Loading config
+[DEBUG] 2009-06-16 23:44:30 :: Loading config
+[DEBUG] 2009-06-16 23:45:09 :: Loading config
+[DEBUG] 2009-06-16 23:45:17 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:45:59 :: Loading config
+[DEBUG] 2009-06-16 23:46:22 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:46:26 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:46:34 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:46:44 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:46:48 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:46:52 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:49:18 :: Loading config
+[DEBUG] 2009-06-16 23:49:53 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:53:09 :: Loading config
+[DEBUG] 2009-06-16 23:53:16 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:53:26 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:53:54 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:54:00 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:54:01 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:54:17 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:54:19 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:54:25 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:54:29 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-16 23:54:35 :: weaver_dmadmin : weaver22
+[DEBUG] 2009-06-17 08:02:28 :: weaver_dmadmin : weaver22
