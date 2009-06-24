@@ -1,0 +1,1 @@
+Sample project for accessing the 'Active Documentum' gem
